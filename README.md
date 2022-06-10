@@ -8,5 +8,5 @@
             </a>
     <p align="center"><a href="https://7lun.github.io/" target="_blank">snek game</a><br>
             <small>psst.. use arrow keys</small>
-        </br></p>   
+        </br></p> 
 </p>
