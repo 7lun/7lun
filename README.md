@@ -4,6 +4,6 @@
     
 <p align="center">
     <a href="https://discord.com/users/654285061406851083">
-        <img src="https://discord.c99.nl/widget/theme-3/654285061406851083.png" alt="luna#2002 ( 654285061406851083 )"/>
+        <img src="https://discord.c99.nl/widget/theme-2/654285061406851083.png" alt="luna#2002 ( 654285061406851083 )"/>
             </a>
 </p>
